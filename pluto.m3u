@@ -8,6 +8,8 @@ http://135.181.115.81:8000/play/a03w/index.m3u8?token=livetv
 http://135.181.115.81:8000/play/a03v/index.m3u8?token=livetv
 #EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="" group-title="Pluto TV",Discovery Channel
 http://91.146.94.234:10000/play/a041
+#EXTINF:-1 tvg-name="Da Vinci" tvg-logo="" group-title="Pluto TV",Da Vinci
+http://109.70.186.70:9090/udp/239.185.1.1:1234
 #EXTINF:-1 tvg-name="Viasat History" tvg-logo="" group-title="Pluto TV",Viasat History
 http://213.91.178.133:8000/play/a03r
 #EXTINF:-1 tvg-name="Pluto TV Science" tvg-logo="" group-title="Pluto TV",Pluto TV Science
