@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-name="ТНТ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_tnt.png" group-title="Live TV RU",ТНТ
 http://213.91.178.133:8000/play/a083
 #EXTINF:-1 tvg-name="ТНТ4" tvg-logo="https://dvb.by/sources/logos/3167.png" group-title="Live TV RU",ТНТ4
-http://176.113.48.221:8986/65
+https://cdn2.skygo.mn/live/disk1/TNT4/HLS-FTA/TNT4.m3u8
 #EXTINF:-1 tvg-name="Пятница!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Пятница_%28с_2013%29.svg/1280px-Пятница_%28с_2013%29.svg.png" group-title="Live TV RU",Пятница!
 http://dmi3y-tv.ru/hls/T2/CH_FRIDAY_4.m3u8
 #EXTINF:-1 tvg-name="Суббота!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Логотип_телеканала_Суббота.png/1599px-Логотип_телеканала_Суббота.png" group-title="Live TV RU",Суббота!
