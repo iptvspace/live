@@ -14,8 +14,6 @@ http://92.53.64.197:5050/sts/video.m3u8?token=m3VIth-Rou_bM1
 http://92.53.64.197:5050/ctc_love/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 tvg-name="РЕН ТВ" tvg-logo="https://dvb.by/sources/logos/3142.png" group-title="Live TV RU",РЕН ТВ
 https://cdn2.skygo.mn/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
-#EXTINF:-1 tvg-name="2x2" tvg-logo="https://dvb.by/sources/logos/1006.png" group-title="Live TV RU",2x2
-https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:-1 tvg-name="Че!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Че%21_%282020%29.png/1024px-Че%21_%282020%29.png" group-title="Live TV RU",Че!
 http://92.53.64.197:5050/che/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 tvg-name="Квартал TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Kvartal_TV_%282024%29_%28HD_Logo%29.png" group-title="Live TV RU",Квартал TV
@@ -24,6 +22,11 @@ http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/61055/hls/pl.m3u8
 http://95.67.12.82:9083
 #EXTINF:-1 tvg-name=".Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/.red_TV_Channel_logo.svg/2560px-.red_TV_Channel_logo.svg.png" group-title="Live TV RU",.Red
 http://178.124.152.238:8088/sony
+
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Cartoon_Network_white_letter_logo.png" group-title="Live TV RU",Cartoon Network
+http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
+#EXTINF:-1 tvg-name="2x2" tvg-logo="https://dvb.by/sources/logos/1006.png" group-title="Live TV RU",2x2
+https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 
 #EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/natgeo.png" group-title="Live TV RU",National Geographic
 http://135.181.115.81:8000/play/a03w/index.m3u8?token=livetv
