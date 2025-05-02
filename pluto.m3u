@@ -28,6 +28,8 @@ http://135.181.115.81:8000/play/a04e/index.m3u8?token=livetv
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon 90's Kids" tvg-logo="" group-title="Pluto TV",Nickelodeon 90's Kids
 https://jmp2.uk/plu-6452c814939a590008567a3b.m3u8
+#EXTINF:-1 tvg-name="Chip 'n Dale" tvg-logo="" group-title="Pluto TV",Chip 'n Dale
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 tvg-name="Comedy Central" tvg-logo="" group-title="Pluto TV",Comedy Central
 https://jmp2.uk/plu-5ca671f215a62078d2ec0abf.m3u8
 #EXTINF:-1 tvg-name="Hit Sitcoms" tvg-logo="" group-title="Pluto TV",Hit Sitcoms
