@@ -28,7 +28,7 @@ http://95.67.12.82:9083
 http://178.124.152.238:8088/sony
 
 #EXTINF:-1 tvg-name="Da Vinci" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Da_Vinci_channel_logo.svg/2560px-Da_Vinci_channel_logo.svg.png" group-title="Live TV RU",Da Vinci
-http://109.171.45.109:81/udp/239.54.5.95:1234
+http://130.193.73.10:8937/play/a014
 #EXTINF:-1 tvg-name="History Channel" tvg-logo="https://www.seekpng.com/png/full/948-9488234_freddie-on-history-history-channel-logo-transparent.png" group-title="Live TV RU",History Channel
 http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 #EXTINF:-1 tvg-name="Travel+Adventure" tvg-logo="https://gigavider.ru/upload/iblock/570/8f0c7p5zmxlp7c9357b07lc9t2h0397s.png" group-title="Live TV RU",Travel+Adventure
