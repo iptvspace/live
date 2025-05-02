@@ -66,3 +66,6 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
 #EXTINF:-1 tvg-name="MTV Biggest Pop" tvg-logo="" group-title="Pluto TV",MTV Biggest Pop
 https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
+
+#EXTINF:-1 tvg-name="Babes TV" tvg-logo="" group-title="Pluto TV",Babes TV
+http://kstv.us:8080/live/haw5UJfF68/1729172230/47216.ts
