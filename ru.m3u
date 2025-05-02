@@ -25,9 +25,9 @@ http://95.67.12.82:9083
 #EXTINF:-1 tvg-name=".Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/.red_TV_Channel_logo.svg/2560px-.red_TV_Channel_logo.svg.png" group-title="Live TV RU",.Red
 http://178.124.152.238:8088/sony
 
-#EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/natgeo.png" group-title="Pluto TV",National Geographic
+#EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/natgeo.png" group-title="Live TV RU",National Geographic
 http://135.181.115.81:8000/play/a03w/index.m3u8?token=livetv
-#EXTINF:-1 tvg-name="Nat Geo Wild" tvg-logo="https://i.imgur.com/jp9FDeB.png" group-title="Pluto TV",Nat Geo Wild
+#EXTINF:-1 tvg-name="Nat Geo Wild" tvg-logo="https://i.imgur.com/jp9FDeB.png" group-title="Live TV RU",Nat Geo Wild
 http://135.181.115.81:8000/play/a03v/index.m3u8?token=livetv
 #EXTINF:-1 tvg-name="History Channel" tvg-logo="https://www.seekpng.com/png/full/948-9488234_freddie-on-history-history-channel-logo-transparent.png" group-title="Live TV RU",History Channel
 http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
@@ -72,6 +72,8 @@ http://178.163.13.43:4022/udp/234.0.0.204:2000
 
 #EXTINF:-1 tvg-name="Муз ТВ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/MUZ_TV_LOGO.png/1200px-MUZ_TV_LOGO.png" group-title="Live TV RU",Муз ТВ
 http://178.212.71.253:8000/play/20/index.m3u8
+#EXTINF:-1 tvg-name="RU TV" tvg-logo="https://ufa.mediaohvat.ru/uploads/smi/95a23a5893bee99de1057bcf472e3d2d.png" group-title="Live TV RU",RU TV
+https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 tvg-name="Жара TV" tvg-logo="https://s3.timeweb.cloud/572aecd6-static/channel/10264/logo_256_1658734669.png" group-title="Live TV RU",Жара TV
 http://178.163.13.43:4022/udp/234.0.0.214:2000
 #EXTINF:-1 tvg-name="Bridge TV" tvg-logo="https://pbs.twimg.com/profile_images/545914867312373760/EYiqi-qY_400x400.jpeg" group-title="Live TV RU",Bridge TV
