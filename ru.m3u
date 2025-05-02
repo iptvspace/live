@@ -35,6 +35,8 @@ http://130.193.73.10:8937/play/a01k
 http://vod.tuva.ru/nauka2/index.m3u8
 #EXTINF:-1 tvg-name="English Class" tvg-logo="https://htv-vsc.kion.ru:32126/CPS/images/universal/film/logo/202211/20221107/94/202211071404073519fk.png" group-title="Live TV RU",English Class
 http://178.163.13.43:4022/udp/234.0.0.174:2000
+#EXTINF:-1 tvg-name="English Club TV" tvg-logo="https://webstockreview.net/images/electric-clipart-english-3.png" group-title="Live TV RU",English Club TV
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/11090/hls/pl.m3u8
 #EXTINF:-1 tvg-name="Amedia 1" tvg-logo="https://img.b612.tightvideo.com/channels/amedia1_new.png" group-title="Live TV RU",Amedia 1
 http://65.21.85.175:8000/play/a00g/index.m3u8?token=livetv
 
