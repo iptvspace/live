@@ -58,8 +58,8 @@ http://178.163.13.43:4022/udp/234.0.0.176:2000
 http://130.193.73.10:8937/play/a03c
 #EXTINF:-1 tvg-name="ТВ21" tvg-logo="https://channels.ufanet.ru/media/uploads/logo/a6114ac84f504bbdb237464c674187bf.png" group-title="Live TV RU",ТВ21 
 http://178.163.13.43:4022/udp/234.0.0.187:2000
-#EXTINF:-1 tvg-name="Космос ТВ" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608030118549918_22.png" group-title="Live TV RU",Космос ТВ
-http://178.124.152.238:8088/cinema
+#EXTINF:-1 tvg-name="Золотая коллекция" tvg-logo="https://saransk-tv.ru/assets/images/tv/170.png" group-title="Live TV RU",Золотая коллекция
+http://130.193.73.10:8937/play/a03i
 
 #EXTINF:-1 tvg-name="Eurosport 1" tvg-logo="https://www.pngkit.com/png/full/146-1464169_eurosport-1.png" group-title="Live TV RU",Eurosport 1 
 http://193.27.209.122/eurosport1/index.m3u8
