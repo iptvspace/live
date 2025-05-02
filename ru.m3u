@@ -35,6 +35,8 @@ http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 http://130.193.73.10:8937/play/a026
 #EXTINF:-1 tvg-name="Viju Nature" tvg-logo="https://sites.crm-multinet.ru/storage/channels/VMTMsRWU0ywtyVuhzuGANPGrgOiDZX6G4BUqomol.png" group-title="Live TV RU",Viju Nature
 http://130.193.73.10:8937/play/a01k
+#EXTINF:-1 tvg-name="Travel Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1024px-2018_Travel_Channel_logo.svg.png" group-title="Live TV RU",Travel Channel
+http://cdnua03.hls.tv/544/hls/8743361621b245838bee193c9ec28322/307/stream.m3u8
 #EXTINF:-1 tvg-name="Наука 2.0" tvg-logo="https://upload.wikimedia.org/wikipedia/uk/thumb/2/29/TV_Nauka_2.0.svg/640px-TV_Nauka_2.0.svg.png" group-title="Live TV RU",Наука 2.0
 http://vod.tuva.ru/nauka2/index.m3u8
 #EXTINF:-1 tvg-name="English Class" tvg-logo="https://htv-vsc.kion.ru:32126/CPS/images/universal/film/logo/202211/20221107/94/202211071404073519fk.png" group-title="Live TV RU",English Class
