@@ -1,0 +1,52 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="BBC Earth" tvg-logo="" group-title="Pluto TV",BBC Earth
+https://jmp2.uk/plu-656535fc2c46f30008870fae.m3u8
+#EXTINF:-1 tvg-name="National Geographic" tvg-logo="" group-title="Pluto TV",National Geographic
+http://135.181.115.81:8000/play/a03w/index.m3u8?token=livetv
+#EXTINF:-1 tvg-name="Nat Geo Wild" tvg-logo="" group-title="Pluto TV",Nat Geo Wild
+http://135.181.115.81:8000/play/a03v/index.m3u8?token=livetv
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="" group-title="Pluto TV",Discovery Channel
+http://91.146.94.234:10000/play/a041
+#EXTINF:-1 tvg-name="Viasat History" tvg-logo="" group-title="Pluto TV",Viasat History
+http://213.91.178.133:8000/play/a03r
+#EXTINF:-1 tvg-name="Pluto TV Science" tvg-logo="" group-title="Pluto TV",Pluto TV Science
+https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Travel" tvg-logo="" group-title="Pluto TV",Pluto TV Travel
+https://jmp2.uk/plu-59c01b1953680139c6ae9d4d.m3u8
+#EXTINF:-1 tvg-name="BBC Food" tvg-logo="" group-title="Pluto TV",BBC Food
+https://jmp2.uk/plu-5fb5844bf5514d0007945bda.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="" group-title="Pluto TV",Cartoon Network
+http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="" group-title="Pluto TV",Nickelodeon
+https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon 90's Kids" tvg-logo="" group-title="Pluto TV",Nickelodeon 90's Kids
+https://jmp2.uk/plu-6452c814939a590008567a3b.m3u8
+#EXTINF:-1 tvg-name="Comedy Central" tvg-logo="" group-title="Pluto TV",Comedy Central
+https://jmp2.uk/plu-5ca671f215a62078d2ec0abf.m3u8
+#EXTINF:-1 tvg-name="Hit Sitcoms" tvg-logo="" group-title="Pluto TV",Hit Sitcoms
+https://jmp2.uk/plu-66e0b4a3f0f17500085cc268.m3u8
+#EXTINF:-1 tvg-name="More TV Sitcoms" tvg-logo="" group-title="Pluto TV",More TV Sitcoms
+https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8
+#EXTINF:-1 tvg-name="Funny AF" tvg-logo="" group-title="Pluto TV",Funny AF
+https://jmp2.uk/plu-580e87ff497c73ba2f321dd3.m3u8
+#EXTINF:-1 tvg-name="BET TV" tvg-logo="" group-title="Pluto TV",BET TV
+https://jmp2.uk/plu-5ca670f6593a5d78f0e85aed.m3u8
+#EXTINF:-1 tvg-name="MTV" tvg-logo="" group-title="Pluto TV",MTV
+https://jmp2.uk/plu-5ca672f515a62078d2ec0ad2.m3u8
+#EXTINF:-1 tvg-name="MythBusters" tvg-logo="" group-title="Pluto TV",MythBusters
+https://jmp2.uk/plu-66e0b4866ad04d0008fff4d8.m3u8
+#EXTINF:-1 tvg-name="Top Gear" tvg-logo="" group-title="Pluto TV",Top Gear
+https://jmp2.uk/plu-636adc255bcf470007d6e0e2.m3u8
+#EXTINF:-1 tvg-name="Paramount Movie" tvg-logo="" group-title="Pluto TV",Paramount Movie
+https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Action" tvg-logo="" group-title="Pluto TV",Pluto TV Action
+https://jmp2.uk/plu-561d7d484dc7c8770484914a.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Comedy" tvg-logo="" group-title="Pluto TV",Pluto TV Comedy
+https://jmp2.uk/plu-5a4d3a00ad95e4718ae8d8db.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Horror" tvg-logo="" group-title="Pluto TV",Pluto TV Horror
+https://jmp2.uk/plu-569546031a619b8f07ce6e25.m3u8
+#EXTINF:-1 tvg-name="90s Throwback" tvg-logo="" group-title="Pluto TV",90s Throwback
+https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8
+#EXTINF:-1 tvg-name="MTV Biggest Pop" tvg-logo="" group-title="Pluto TV",MTV Biggest Pop
+https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
