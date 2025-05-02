@@ -25,6 +25,10 @@ http://95.67.12.82:9083
 #EXTINF:-1 tvg-name=".Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/.red_TV_Channel_logo.svg/2560px-.red_TV_Channel_logo.svg.png" group-title="Live TV RU",.Red
 http://178.124.152.238:8088/sony
 
+#EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/natgeo.png" group-title="Pluto TV",National Geographic
+http://135.181.115.81:8000/play/a03w/index.m3u8?token=livetv
+#EXTINF:-1 tvg-name="Nat Geo Wild" tvg-logo="https://i.imgur.com/jp9FDeB.png" group-title="Pluto TV",Nat Geo Wild
+http://135.181.115.81:8000/play/a03v/index.m3u8?token=livetv
 #EXTINF:-1 tvg-name="History Channel" tvg-logo="https://www.seekpng.com/png/full/948-9488234_freddie-on-history-history-channel-logo-transparent.png" group-title="Live TV RU",History Channel
 http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 #EXTINF:-1 tvg-name="Travel+Adventure" tvg-logo="https://gigavider.ru/upload/iblock/570/8f0c7p5zmxlp7c9357b07lc9t2h0397s.png" group-title="Live TV RU",Travel+Adventure
