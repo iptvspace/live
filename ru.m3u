@@ -103,5 +103,5 @@ http://178.163.13.43:4022/udp/234.0.0.183:2000
 https://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
 #EXTINF:-1 tvg-name="1 Музыкальный" tvg-logo="https://i.imgur.com/YdyFJrl.png" group-title="Live TV RU",1 Музыкальный
 http://rtmp.one.by:1300
-#EXTINF:-1 tvg-name="1 Музыкальный Россия" tvg-logo="https://img.plvideo.ru/images/fp-2024-images/c/cover/1e/17/1e178e20f46c3f0b35dff1591041e87a/original66bcfdd0680c52.92588115.jpg" group-title="Live TV RU",1 Музыкальный Россия
+#EXTINF:-1 tvg-name="1 Музыкальный Россия" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/1musru.png" group-title="Live TV RU",1 Музыкальный Россия
 http://rtmp.one.by:2300
