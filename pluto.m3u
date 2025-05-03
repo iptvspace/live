@@ -51,6 +51,9 @@ https://jmp2.uk/plu-5a4d3a00ad95e4718ae8d8db.m3u8
 https://jmp2.uk/plu-569546031a619b8f07ce6e25.m3u8
 #EXTINF:-1 tvg-name="90s Throwback" tvg-logo="" group-title="Pluto TV",90s Throwback
 https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8
+
+#EXTINF:-1 tvg-name="FOX Sports" tvg-logo="" group-title="Pluto TV",FOX Sports
+https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
 #EXTINF:-1 tvg-name="Real Madrid TV" tvg-logo="" group-title="Pluto TV",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
