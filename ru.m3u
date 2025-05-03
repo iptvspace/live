@@ -21,6 +21,8 @@ http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/61055/hls/pl.m3u8
 #EXTINF:-1 tvg-name="ContinentE" tvg-logo="https://tvlistings.eu/img/ukraine/logo/continent-e.png" group-title="Live TV RU",Continent E
 http://95.67.12.82:9083
 
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Nickelodeon_2023_logo.svg/2560px-Nickelodeon_2023_logo.svg.png" group-title="Live TV RU",Nickelodeon
+http://135.181.115.81:8000/play/a03x/index.m3u8?token=livetv
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Cartoon_Network_white_letter_logo.png" group-title="Live TV RU",Cartoon Network
 http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
 #EXTINF:-1 tvg-name="2x2" tvg-logo="https://dvb.by/sources/logos/1006.png" group-title="Live TV RU",2x2
