@@ -73,7 +73,7 @@ http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 http://178.163.13.43:4022/udp/234.0.0.176:2000
 #EXTINF:-1 tvg-name="НСТ" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/nst.png" group-title="Live TV RU",НСТ 
 http://130.193.73.10:8937/play/a03c
-#EXTINF:-1 tvg-name="ТВ21" tvg-logo="https://channels.ufanet.ru/media/uploads/logo/a6114ac84f504bbdb237464c674187bf.png" group-title="Live TV RU",ТВ21 
+#EXTINF:-1 tvg-name="ТВ21" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/tv21.png" group-title="Live TV RU",ТВ21 
 http://178.163.13.43:4022/udp/234.0.0.187:2000
 #EXTINF:-1 tvg-name="Золотая коллекция" tvg-logo="https://saransk-tv.ru/assets/images/tv/170.png" group-title="Live TV RU",Золотая коллекция
 http://130.193.73.10:8937/play/a03i
