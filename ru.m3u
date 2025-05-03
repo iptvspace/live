@@ -59,6 +59,10 @@ http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/11090/hls/pl.m3u8
 http://178.124.152.238:8088/sony
 #EXTINF:-1 tvg-name="Amedia 1" tvg-logo="https://img.b612.tightvideo.com/channels/amedia1_new.png" group-title="Live TV RU",Amedia 1
 http://65.21.85.175:8000/play/a00g/index.m3u8?token=livetv
+#EXTINF:-1 tvg-name="TV1000" tvg-logo="" group-title="Live TV RU",TV1000
+http://65.21.85.175:8000/play/a011/index.m3u8?token=livetv
+#EXTINF:-1 tvg-name="TV1000 Action" tvg-logo="" group-title="Live TV RU",TV1000 Action
+http://65.21.85.175:8000/play/a012/index.m3u8?token=livetv
 #EXTINF:-1 tvg-name="TV1000 Русское" tvg-logo="https://www.cableman.ru/sites/default/files/2021/logo_viasat_3.png" group-title="Live TV RU",TV1000 Русское
 http://135.181.115.81:8000/play/a045/index.m3u8?token=livetv
 #EXTINF:-1 tvg-name="Viasat Kino World" tvg-logo="https://i.imgur.com/io0WAkA.png" group-title="Live TV RU",Viasat Kino World
