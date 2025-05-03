@@ -1,44 +1,44 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Pluto TV",Euronews
+#EXTINF:-1 tvg-name="Euronews" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/pluto.png" group-title="Pluto TV",Euronews
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8
 
-#EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Pluto TV",BBC Earth
+#EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/pluto.png" group-title="Pluto TV",BBC Earth
 https://jmp2.uk/plu-656535fc2c46f30008870fae.m3u8
-#EXTINF:-1 tvg-name="Nat Geo Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Pluto TV",Nat Geo Wild
+#EXTINF:-1 tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/pluto.png" group-title="Pluto TV",Nat Geo Wild
 http://78.130.250.2:8023/play/a02c/index.m3u8
-#EXTINF:-1 tvg-name="Da Vinci" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Pluto TV",Da Vinci
+#EXTINF:-1 tvg-name="Da Vinci" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/pluto.png" group-title="Pluto TV",Da Vinci
 http://109.70.186.70:9090/udp/239.185.1.1:1234
-#EXTINF:-1 tvg-name="Viasat History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Pluto TV",Viasat History
+#EXTINF:-1 tvg-name="Viasat History" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/pluto.png" group-title="Pluto TV",Viasat History
 http://213.91.178.133:8000/play/a03r
-#EXTINF:-1 tvg-name="Pluto TV Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Pluto TV",Pluto TV Science
+#EXTINF:-1 tvg-name="Pluto TV Science" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/pluto.png" group-title="Pluto TV",Pluto TV Science
 https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Animals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Pluto TV",Pluto TV Animals
+#EXTINF:-1 tvg-name="Pluto TV Animals" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/pluto.png" group-title="Pluto TV",Pluto TV Animals
 https://jmp2.uk/plu-56b27f85ff3037045055037e.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Travel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Pluto TV",Pluto TV Travel
+#EXTINF:-1 tvg-name="Pluto TV Travel" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/pluto.png" group-title="Pluto TV",Pluto TV Travel
 https://jmp2.uk/plu-59c01b1953680139c6ae9d4d.m3u8
 
-#EXTINF:-1 tvg-name="BBC Food" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Pluto TV",BBC Food
+#EXTINF:-1 tvg-name="BBC Food" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/plutotv.png" group-title="Pluto TV",BBC Food
 https://jmp2.uk/plu-5fb5844bf5514d0007945bda.m3u8
-#EXTINF:-1 tvg-name="The Jamie Oliver Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Pluto TV",The Jamie Oliver Channel
+#EXTINF:-1 tvg-name="The Jamie Oliver Channel" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/plutotv.png" group-title="Pluto TV",The Jamie Oliver Channel
 https://jmp2.uk/plu-64dab9df3d48f40008868091.m3u8
-#EXTINF:-1 tvg-name="Sweet Escapes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Pluto TV",Sweet Escapes
+#EXTINF:-1 tvg-name="Sweet Escapes" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/plutotv.png" group-title="Pluto TV",Sweet Escapes
 https://jmp2.uk/plu-6532e7fa045c3d0008514ca7.m3u8
-#EXTINF:-1 tvg-name="Game Show" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Pluto TV",Game Show
+#EXTINF:-1 tvg-name="Game Show" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/plutotv.png" group-title="Pluto TV",Game Show
 https://jmp2.uk/plu-5e54187aae660e00093561d6.m3u8
-#EXTINF:-1 tvg-name="More TV Game Shows" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Pluto TV",More TV Game Shows
+#EXTINF:-1 tvg-name="More TV Game Shows" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/plutotv.png" group-title="Pluto TV",More TV Game Shows
 https://jmp2.uk/plu-64387c25e0789d000849f62e.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Game Shows" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Pluto TV",Pluto TV Game Shows
+#EXTINF:-1 tvg-name="Pluto TV Game Shows" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/plutotv.png" group-title="Pluto TV",Pluto TV Game Shows
 https://jmp2.uk/plu-6036e7c385749f00075dbd3b.m3u8
-#EXTINF:-1 tvg-name="Ghost Hunters" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Pluto TV",Ghost Hunters
+#EXTINF:-1 tvg-name="Ghost Hunters" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/plutotv.png" group-title="Pluto TV",Ghost Hunters
 https://jmp2.uk/plu-64e561a4354251000823a0e0.m3u8
-#EXTINF:-1 tvg-name="MotorTrend Fast TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Pluto TV",MotorTrend Fast TV
+#EXTINF:-1 tvg-name="MotorTrend Fast TV" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/plutotv.png" group-title="Pluto TV",MotorTrend Fast TV
 https://jmp2.uk/plu-6400f731d200410008f9b339.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Paranormal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Pluto TV",Pluto TV Paranormal
+#EXTINF:-1 tvg-name="Pluto TV Paranormal" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/plutotv.png" group-title="Pluto TV",Pluto TV Paranormal
 https://jmp2.uk/plu-5adf96e3e738977e2c31cb04.m3u8
-#EXTINF:-1 tvg-name="Spike TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Pluto TV",Spike TV
+#EXTINF:-1 tvg-name="Spike TV" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/plutotv.png" group-title="Pluto TV",Spike TV
 https://jmp2.uk/plu-5812bcc8237a6ff45d16c407.m3u8
-#EXTINF:-1 tvg-name="CMT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Pluto TV",CMT
+#EXTINF:-1 tvg-name="CMT" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/plutotv.png" group-title="Pluto TV",CMT
 https://jmp2.uk/plu-5dcc42446750e200093b15e2.m3u8
 
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Pluto TV",Nickelodeon
