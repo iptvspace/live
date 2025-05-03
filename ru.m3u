@@ -78,9 +78,9 @@ http://178.163.13.43:4022/udp/234.0.0.187:2000
 #EXTINF:-1 tvg-name="Золотая коллекция" tvg-logo="https://saransk-tv.ru/assets/images/tv/170.png" group-title="Live TV RU",Золотая коллекция
 http://130.193.73.10:8937/play/a03i
 
-#EXTINF:-1 tvg-name="Eurosport 1" tvg-logo="https://www.pngkit.com/png/full/146-1464169_eurosport-1.png" group-title="Live TV RU",Eurosport 1 
+#EXTINF:-1 tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/eurosport1.png" group-title="Live TV RU",Eurosport 1 
 http://193.27.209.122/eurosport1/index.m3u8
-#EXTINF:-1 tvg-name="Eurosport 2" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-symbol.png" group-title="Live TV RU",Eurosport 2 
+#EXTINF:-1 tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/eurosport2.png" group-title="Live TV RU",Eurosport 2 
 http://193.27.209.122/eurosport2/index.m3u8
 #EXTINF:-1 tvg-name="Viju Sport" tvg-logo="https://tvprofil.com/img/kanali-logo/vijuplus_Sport_RU_logo.png" group-title="Live TV RU",Viju Sport 
 http://135.181.115.81:8000/play/a00f/index.m3u8?token=livetv
