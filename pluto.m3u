@@ -20,6 +20,10 @@ https://jmp2.uk/plu-59c01b1953680139c6ae9d4d.m3u8
 
 #EXTINF:-1 tvg-name="BBC Food" tvg-logo="" group-title="Pluto TV",BBC Food
 https://jmp2.uk/plu-5fb5844bf5514d0007945bda.m3u8
+#EXTINF:-1 tvg-name="The Jamie Oliver Channel" tvg-logo="" group-title="Pluto TV",The Jamie Oliver Channel
+https://jmp2.uk/plu-64dab9df3d48f40008868091.m3u8
+#EXTINF:-1 tvg-name="Sweet Escapes" tvg-logo="" group-title="Pluto TV",Sweet Escapes
+https://jmp2.uk/plu-6532e7fa045c3d0008514ca7.m3u8
 #EXTINF:-1 tvg-name="Game Show" tvg-logo="" group-title="Pluto TV",Game Show
 https://jmp2.uk/plu-5e54187aae660e00093561d6.m3u8
 #EXTINF:-1 tvg-name="More TV Game Shows" tvg-logo="" group-title="Pluto TV",More TV Game Shows
@@ -32,6 +36,10 @@ https://jmp2.uk/plu-64e561a4354251000823a0e0.m3u8
 https://jmp2.uk/plu-6400f731d200410008f9b339.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Paranormal" tvg-logo="" group-title="Pluto TV",Pluto TV Paranormal
 https://jmp2.uk/plu-5adf96e3e738977e2c31cb04.m3u8
+#EXTINF:-1 tvg-name="Spike TV" tvg-logo="" group-title="Pluto TV",Spike TV
+https://jmp2.uk/plu-5812bcc8237a6ff45d16c407.m3u8
+#EXTINF:-1 tvg-name="CMT" tvg-logo="" group-title="Pluto TV",CMT
+https://jmp2.uk/plu-5dcc42446750e200093b15e2.m3u8
 
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="" group-title="Pluto TV",Nickelodeon
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
@@ -39,23 +47,31 @@ https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 https://jmp2.uk/plu-6452c814939a590008567a3b.m3u8
 #EXTINF:-1 tvg-name="Kartoon Channel!" tvg-logo="" group-title="Pluto TV",Kartoon Channel!
 https://jmp2.uk/plu-60fb040d4795a6000762fe8f.m3u8
-#EXTINF:-1 tvg-name="Chip 'n Dale" tvg-logo="" group-title="Pluto TV",Chip 'n Dale
-http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 tvg-name="Kids Movie Club" tvg-logo="" group-title="Pluto TV",Kids Movie Club
 https://jmp2.uk/plu-5db0ad56edc89300090d2ebb.m3u8
+#EXTINF:-1 tvg-name="Chip 'n Dale" tvg-logo="" group-title="Pluto TV",Chip 'n Dale
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1 tvg-name="Transformers TV" tvg-logo="" group-title="Pluto TV",Transformers TV
+https://jmp2.uk/plu-60fb053712f22a0007ff14d2.m3u8
 
 #EXTINF:-1 tvg-name="Comedy Central" tvg-logo="" group-title="Pluto TV",Comedy Central
 https://jmp2.uk/plu-5ca671f215a62078d2ec0abf.m3u8
+#EXTINF:-1 tvg-name="Sitcom Legends" tvg-logo="" group-title="Pluto TV",Sitcom Legends
+https://jmp2.uk/plu-633354b63df9700007f6a1b7.m3u8
 #EXTINF:-1 tvg-name="Hit Sitcoms" tvg-logo="" group-title="Pluto TV",Hit Sitcoms
 https://jmp2.uk/plu-66e0b4a3f0f17500085cc268.m3u8
 #EXTINF:-1 tvg-name="More TV Sitcoms" tvg-logo="" group-title="Pluto TV",More TV Sitcoms
 https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8
+#EXTINF:-1 tvg-name="TV Land Sitcoms" tvg-logo="" group-title="Pluto TV",TV Land Sitcoms
+https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
 #EXTINF:-1 tvg-name="Funny AF" tvg-logo="" group-title="Pluto TV",Funny AF
 https://jmp2.uk/plu-580e87ff497c73ba2f321dd3.m3u8
 #EXTINF:-1 tvg-name="BET TV" tvg-logo="" group-title="Pluto TV",BET TV
 https://jmp2.uk/plu-5ca670f6593a5d78f0e85aed.m3u8
 #EXTINF:-1 tvg-name="MTV" tvg-logo="" group-title="Pluto TV",MTV
 http://fl5.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 tvg-name="Stand-Up TV" tvg-logo="" group-title="Pluto TV",Stand-Up TV
+https://jmp2.uk/plu-5637d31f319573e26b64040b.m3u8
 #EXTINF:-1 tvg-name="MythBusters" tvg-logo="" group-title="Pluto TV",MythBusters
 https://jmp2.uk/plu-66e0b4866ad04d0008fff4d8.m3u8
 #EXTINF:-1 tvg-name="Top Gear" tvg-logo="" group-title="Pluto TV",Top Gear
@@ -83,19 +99,35 @@ https://jmp2.uk/plu-5b4e92e4694c027be6ecece1.m3u8
 https://jmp2.uk/plu-5b4e69e08291147bd04a9fd7.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Icons" tvg-logo="" group-title="Pluto TV",Pluto TV Icons
 https://jmp2.uk/plu-64b585f84ea480000838e446.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Trending" tvg-logo="" group-title="Pluto TV",Pluto TV Trending
+https://jmp2.uk/plu-673247127d5da5000817b4d6.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Westerns" tvg-logo="" group-title="Pluto TV",Pluto TV Westerns
+https://jmp2.uk/plu-5b4e94282d4ec87bdcbb87cd.m3u8
 #EXTINF:-1 tvg-name="MovieSphere" tvg-logo="" group-title="Pluto TV",MovieSphere
 https://jmp2.uk/plu-645e7828e1979c00087b75b4.m3u8
+#EXTINF:-1 tvg-name="Universal Action" tvg-logo="" group-title="Pluto TV",Universal Action
+https://jmp2.uk/plu-654933e253fc970008390114.m3u8
+#EXTINF:-1 tvg-name="Universal Crime" tvg-logo="" group-title="Pluto TV",Universal Crime
+https://jmp2.uk/plu-6549341853fc9700083901ac.m3u8
+#EXTINF:-1 tvg-name="Universal Monsters" tvg-logo="" group-title="Pluto TV",Universal Monsters
+https://jmp2.uk/plu-65a9b20f0c7ff50008d3a3b6.m3u8
 #EXTINF:-1 tvg-name="90s Throwback" tvg-logo="" group-title="Pluto TV",90s Throwback
 https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8
 
 #EXTINF:-1 tvg-name="FOX Sports" tvg-logo="" group-title="Pluto TV",FOX Sports
 https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
+#EXTINF:-1 tvg-name="CBS Sports" tvg-logo="" group-title="Pluto TV",CBS Sports
+https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
 #EXTINF:-1 tvg-name="Real Madrid TV" tvg-logo="" group-title="Pluto TV",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-name="NFL Channel" tvg-logo="" group-title="Pluto TV",NFL Channel
 https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8
 #EXTINF:-1 tvg-name="ONE Championship" tvg-logo="" group-title="Pluto TV",ONE Championship
 https://jmp2.uk/plu-668c5d3bfd9eb2000882bb50.m3u8
+#EXTINF:-1 tvg-name="Speed Sport 1" tvg-logo="" group-title="Pluto TV",Speed Sport 1
+https://jmp2.uk/plu-6675b8ccca74680008563c24.m3u8
+#EXTINF:-1 tvg-name="Champions League" tvg-logo="" group-title="Pluto TV",Champions League
+https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
 
 #EXTINF:-1 tvg-name="MTV Biggest Pop" tvg-logo="" group-title="Pluto TV",MTV Biggest Pop
 https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
