@@ -97,7 +97,7 @@ http://178.163.13.43:4022/udp/234.0.0.214:2000
 http://195.26.83.96:7007/play/a00m/index.m3u8
 #EXTINF:-1 tvg-name="Bridge TV Rock" tvg-logo="https://static-iptv2021.cdnvideo.ru/572aecd6-static/channel/12356/logo_256_1678781216.png" group-title="Live TV RU",Bridge TV Rock
 http://178.212.71.253:8000/play/101/index.m3u8
-#EXTINF:-1 tvg-name="Europa Plus TV" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/8/8f/EuropaPlus.png/1024px-EuropaPlus.png" group-title="Live TV RU",Europa Plus TV
+#EXTINF:-1 tvg-name="Europa Plus TV" tvg-logo="https://vectorseek.com/wp-content/uploads/2024/02/Europa-Plus-TV-Logo-Vector.svg-.png" group-title="Live TV RU",Europa Plus TV
 http://178.163.13.43:4022/udp/234.0.0.183:2000
 #EXTINF:-1 tvg-name="Viva TV Russia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/VIVA_Logo_blue-cyan.svg/1558px-VIVA_Logo_blue-cyan.svg.png" group-title="Live TV RU",Viva TV Russia
 https://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
