@@ -75,7 +75,7 @@ http://178.163.13.43:4022/udp/234.0.0.176:2000
 http://130.193.73.10:8937/play/a03c
 #EXTINF:-1 tvg-name="ТВ21" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/tv21.png" group-title="Live TV RU",ТВ21 
 http://178.163.13.43:4022/udp/234.0.0.187:2000
-#EXTINF:-1 tvg-name="Золотая коллекция" tvg-logo="https://saransk-tv.ru/assets/images/tv/170.png" group-title="Live TV RU",Золотая коллекция
+#EXTINF:-1 tvg-name="Золотая коллекция" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/mosfilm.png" group-title="Live TV RU",Золотая коллекция
 http://130.193.73.10:8937/play/a03i
 
 #EXTINF:-1 tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/eurosport1.png" group-title="Live TV RU",Eurosport 1 
