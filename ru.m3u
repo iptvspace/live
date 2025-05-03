@@ -20,8 +20,6 @@ http://92.53.64.197:5050/che/video.m3u8?token=m3VIth-Rou_bM1
 http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/61055/hls/pl.m3u8
 #EXTINF:-1 tvg-name="ContinentE" tvg-logo="https://tvlistings.eu/img/ukraine/logo/continent-e.png" group-title="Live TV RU",Continent E
 http://95.67.12.82:9083
-#EXTINF:-1 tvg-name=".Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/.red_TV_Channel_logo.svg/2560px-.red_TV_Channel_logo.svg.png" group-title="Live TV RU",.Red
-http://178.124.152.238:8088/sony
 
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Cartoon_Network_white_letter_logo.png" group-title="Live TV RU",Cartoon Network
 http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
@@ -49,6 +47,8 @@ http://178.163.13.43:4022/udp/234.0.0.174:2000
 #EXTINF:-1 tvg-name="English Club TV" tvg-logo="https://webstockreview.net/images/electric-clipart-english-3.png" group-title="Live TV RU",English Club TV
 http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/11090/hls/pl.m3u8
 
+#EXTINF:-1 tvg-name=".Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/.red_TV_Channel_logo.svg/2560px-.red_TV_Channel_logo.svg.png" group-title="Live TV RU",.Red
+http://178.124.152.238:8088/sony
 #EXTINF:-1 tvg-name="Amedia 1" tvg-logo="https://img.b612.tightvideo.com/channels/amedia1_new.png" group-title="Live TV RU",Amedia 1
 http://65.21.85.175:8000/play/a00g/index.m3u8?token=livetv
 #EXTINF:-1 tvg-name="TV1000 Русское" tvg-logo="https://www.cableman.ru/sites/default/files/2021/logo_viasat_3.png" group-title="Live TV RU",TV1000 Русское
@@ -59,7 +59,7 @@ https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Еврокино" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Evrokino.png" group-title="Live TV RU",Еврокино
 http://178.163.13.43:4022/udp/234.0.0.176:2000
-#EXTINF:-1 tvg-name="НСТ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/NST-2013.jpg" group-title="Live TV RU",НСТ 
+#EXTINF:-1 tvg-name="НСТ" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/nst.png" group-title="Live TV RU",НСТ 
 http://130.193.73.10:8937/play/a03c
 #EXTINF:-1 tvg-name="ТВ21" tvg-logo="https://channels.ufanet.ru/media/uploads/logo/a6114ac84f504bbdb237464c674187bf.png" group-title="Live TV RU",ТВ21 
 http://178.163.13.43:4022/udp/234.0.0.187:2000
