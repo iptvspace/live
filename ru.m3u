@@ -67,13 +67,13 @@ http://65.21.85.175:8000/play/a012/index.m3u8?token=livetv
 http://135.181.115.81:8000/play/a045/index.m3u8?token=livetv
 #EXTINF:-1 tvg-name="Viasat Kino World" tvg-logo="https://i.imgur.com/io0WAkA.png" group-title="Live TV RU",Viasat Kino World
 https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="НСТ" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/nst.png" group-title="Live TV RU",НСТ 
+http://130.193.73.10:8937/play/a03c
 #EXTINF:-1 tvg-name="Cinema" tvg-logo="https://static13.tgcnt.ru/posts/_0/99/99571e0431d94fb00b385e15dc7f12c0.jpg" group-title="Live TV RU",Cinema
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Еврокино" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Evrokino.png" group-title="Live TV RU",Еврокино
 http://178.163.13.43:4022/udp/234.0.0.176:2000
-#EXTINF:-1 tvg-name="НСТ" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/nst.png" group-title="Live TV RU",НСТ 
-http://130.193.73.10:8937/play/a03c
-#EXTINF:-1 tvg-name="ТВ21" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/tv21.png" group-title="Live TV RU",ТВ21 
+#EXTINF:-1 tvg-name="ТВ21" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/tv21.png" group-title="Live TV RU",ТВ|21
 http://178.163.13.43:4022/udp/234.0.0.187:2000
 #EXTINF:-1 tvg-name="Золотая коллекция" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/mosfilm.png" group-title="Live TV RU",Золотая коллекция
 http://130.193.73.10:8937/play/a03i
