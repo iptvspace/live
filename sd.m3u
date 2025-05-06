@@ -131,7 +131,7 @@ https://tvpass.org/live/NFLNetwork/sd
 https://tvpass.org/live/NHLNetwork/sd
 
 #EXTINF:-1 tvg-id="MTV.Live" tvg-name="MTV Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/631px-MTV_Live_2021_logo.svg.png" group-title="Live TV SD",MTV Live
-http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+http://190.102.246.93:9005/play/a01p
 #EXTINF:-1 tvg-id="FirstMusicChannel.by" tvg-name="1 Music Channel" tvg-logo="https://i.imgur.com/YdyFJrl.png" group-title="Live TV SD",1 Music Channel
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-id="DeluxeMusic.de" tvg-name="Deluxe Music" tvg-logo="https://i.imgur.com/E65GQN9.png" group-title="Live TV SD",Deluxe Music
