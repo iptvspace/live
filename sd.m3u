@@ -147,12 +147,12 @@ https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/XITE_Rock_On.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/trace.png" group-title="Live TV SD",Trace Urban
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="Oxygen.Music" tvg-name="Oxygen Music" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/oxygen.png" group-title="Live TV SD",Oxygen Music
+https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 #EXTINF:-1 tvg-id="KroneHit.tv" tvg-name="KroneHit TV" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/kronehit.png" group-title="Live TV SD",KroneHit TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-id="Rock.tv" tvg-name="Rock TV" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/rocktv.png" group-title="Live TV SD",Rock TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
-#EXTINF:-1 tvg-id="Oxygen.Music" tvg-name="Oxygen Music" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/oxygen.png" group-title="Live TV SD",Oxygen Music
-https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 #EXTINF:-1 tvg-name="Muzzik.TV" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/muzzik.png" group-title="Live TV SD",Muzzik TV
 https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
 #EXTINF:-1 tvg-id="Muzzik.RockRoll" tvg-name="Muzzik Rock&Roll" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/muzzikrock.png" group-title="Live TV SD",Rock&Roll
