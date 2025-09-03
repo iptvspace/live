@@ -34,6 +34,8 @@ https://tvpass.org/live/FoodNetworkEast/sd
 https://tvpass.org/live/VICETV/sd
 #EXTINF:-1 tvg-id="trutv-usa-eastern" tvg-name="truTV" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/trutv.png" group-title="Live TV SD",truTV
 https://tvpass.org/live/truTVEast/sd
+#EXTINF:-1 tvg-id="the-cooking-channel" tvg-name="Cooking Channel" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/cooking.png" group-title="Live TV SD",Cooking Channel
+https://tvpass.org/live/CookingChannel/sd
 #EXTINF:-1 tvg-id="e-entertainment-usa-eastern-feed" tvg-name="E! Entertainment" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/entertainment.png" group-title="Live TV SD",E! Entertainment
 https://tvpass.org/live/EEast/sd
 
@@ -62,6 +64,8 @@ https://tvpass.org/live/TBSEast/sd
 https://tvpass.org/live/FXXEast/sd
 #EXTINF:-1 tvg-id="bet-eastern-feed" tvg-name="BET" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/bet.png" group-title="Live TV SD",BET
 https://tvpass.org/live/BETEast/sd
+#EXTINF:-1 tvg-id="independent-film-channel-us" tvg-name="IFC" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/ifc.png" group-title="Live TV SD",IFC
+https://tvpass.org/live/IFCEast/sd
 #EXTINF:-1 tvg-id="cbs-wcbs-new-york-ny" tvg-name="CBS" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/cbs.png" group-title="Live TV SD",CBS
 https://tvpass.org/live/WCBSDT1/sd
 #EXTINF:-1 tvg-id="cmt-us-eastern-feed" tvg-name="CMT" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/cmt.png" group-title="Live TV SD",CMT
@@ -99,8 +103,6 @@ https://tvpass.org/live/StarzEast/sd
 https://tvpass.org/live/TheMovieChannelEast/sd
 #EXTINF:-1 tvg-id="cinemax-eastern-feed" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/cinemax.png" group-title="Live TV SD",Cinemax
 https://tvpass.org/live/CinemaxEast/sd
-#EXTINF:-1 tvg-id="moviemax-max-6-east" tvg-name="Movie Max" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/moviemax.png" group-title="Live TV SD",Movie Max
-https://tvpass.org/live/MovieMaxEast/sd
 #EXTINF:-1 tvg-id="moremax-eastern" tvg-name="More Max" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/moremax.png" group-title="Live TV SD",More Max
 https://tvpass.org/live/MoreMaxEast/sd
 #EXTINF:-1 tvg-id="hbo-eastern-feed" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/hbo.png" group-title="Live TV SD",HBO
@@ -109,8 +111,6 @@ https://tvpass.org/live/HBOEast/sd
 https://tvpass.org/live/HBO2East/sd
 #EXTINF:-1 tvg-id="hbo-comedy-hd-east" tvg-name="HBO Comedy" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/hbocomedy.png" group-title="Live TV SD",HBO Comedy
 https://tvpass.org/live/HBOComedyEast/sd
-#EXTINF:-1 tvg-id="hbo-family-eastern-feed" tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/hbofamily.png" group-title="Live TV SD",HBO Family
-https://tvpass.org/live/HBOFamilyEast/sd
 #EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/hbosignature.png" group-title="Live TV SD",HBO Signature
 https://tvpass.org/live/HBOSignatureEast/sd
 #EXTINF:-1 tvg-id="hbo-zone-hd-east" tvg-name="HBO Zone" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/hbozone.png" group-title="Live TV SD",HBO Zone
@@ -162,8 +162,8 @@ http://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 #EXTINF:-1 tvg-id="Muzzik.Flashback" tvg-name="Muzzik Flashback" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/muzzikflashback.png" group-title="Live TV SD",Flashback
 https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
 #EXTINF:-1 tvg-id="Vevo.Pop" tvg-name="Vevo Pop" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/vevopop.png" group-title="Live TV SD",Vevo Pop
-https://d33yiufuiyic30.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f94huxetzks7d/Vevo_Pop.m3u8
+https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Vevo.RetroRock" tvg-name="Vevo Retro Rock" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/vevorock.png" group-title="Live TV SD",Vevo Retro Rock
 https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8
 #EXTINF:-1 tvg-id="Vevo.2010s" tvg-name="Vevo 2010s" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/vevo2010s.png" group-title="Live TV SD",Vevo 2010s
-https://d1td33xo32wcw8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eriheq1pngmtd/Vevo_2010s.m3u8
+https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist.m3u8
