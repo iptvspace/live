@@ -1,36 +1,48 @@
 #EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
 
-#EXTINF:-1 tvg-id="FirstMusicChannel.by" tvg-name="1 Music Channel" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/1music.png" group-title="Music TV,1 Music Channel
+#EXTINF:-1 tvg-id="FirstMusicChannel.by" tvg-name="1 Music Channel" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/1music.png" group-title="Music TV",1 Music Channel
 http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:-1 tvg-id="DeluxeMusic.de" tvg-name="Deluxe Music" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/deluxemusic.png" group-title="Music TV,Deluxe Music
+#EXTINF:-1 tvg-id="DeluxeMusic.de" tvg-name="Deluxe Music" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/deluxemusic.png" group-title="Music TV",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-id="DeluxeMusic.de" tvg-name="Deluxe Dance" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/dlxdance.png" group-title="Music TV,Deluxe Dance
-https://t.freetv.fun/live/deluxe-music-dance-by-kontor.m3u8
-#EXTINF:-1 tvg-id="DeluxeMusic.de" tvg-name="Deluxe Summer" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/dlxsummer.png" group-title="Music TV,Deluxe Summer
+#EXTINF:-1 tvg-id="DeluxeMusic.de" tvg-name="Deluxe Summer" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/dlxsummer.png" group-title="Music TV",Deluxe Summer
 https://t.freetv.fun/live/deluxe-music-winter-time.m3u8
-#EXTINF:-1 tvg-id="Company.tv" tvg-name="Company TV" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/company.png" group-title="Music TV,Company TV
+#EXTINF:-1 tvg-id="Company.tv" tvg-name="Company TV" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/company.png" group-title="Music TV",Company TV
 https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist_slita.m3u8
-#EXTINF:-1 tvg-id="Deejay.TV" tvg-name="Deejay TV" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/deejay.png" group-title="Music TV,Deejay TV
+#EXTINF:-1 tvg-id="Thats.Rock" tvg-name="That's Rock" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/thatsrock.png" group-title="Music TV",That's Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Deejay.TV" tvg-name="Deejay TV" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/deejay.png" group-title="Music TV",Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-#EXTINF:-1 tvg-id="XITE.Hits" tvg-name="XITE Hits" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/xite.png" group-title="Music TV,XITE Hits
+#EXTINF:-1 tvg-id="XITE.Hits" tvg-name="XITE Hits" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/xite.png" group-title="Music TV",XITE Hits
 https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8
-#EXTINF:-1 tvg-id="RadioM2O" tvg-name="Radio M2O" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/radiom2o.png" group-title="Music TV,Radio M2O
-https://t.freetv.fun/live/m2o-tv.m3u8
-#EXTINF:-1 tvg-id="XITE.RockxMetal" tvg-name="XITE Rock x Metal" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/xiterock.png" group-title="Music TV,XITE Rock x Metal
+#EXTINF:-1 tvg-id="XITE.RockxMetal" tvg-name="XITE Rock x Metal" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/xiterock.png" group-title="Music TV",XITE Rock x Metal
 https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/XITE_Rock_On.m3u8
-#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/trace.png" group-title="Music TV,Trace Urban
+#EXTINF:-1 tvg-id="XITE.90sThrowback" tvg-name="XITE 90's Throwback" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/xite90.png" group-title="Music TV",XITE 90's Throwback
+https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/trace.png" group-title="Music TV",Trace Urban
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="Oxygen.Music" tvg-name="Oxygen Music" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/oxygen.png" group-title="Music TV,Oxygen Music
+#EXTINF:-1 tvg-id="TraceUK" tvg-name="Trace UK" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/traceuk.png" group-title="Music TV",Trace UK
+https://d2l4tng0wskzvn.cloudfront.net/Trace_GB.m3u8
+#EXTINF:-1 tvg-id="Oxygen.Music" tvg-name="Oxygen Music" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/oxygen.png" group-title="Music TV",Oxygen Music
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
-#EXTINF:-1 tvg-id="KroneHit.tv" tvg-name="KroneHit TV" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/kronehit.png" group-title="Music TV,KroneHit TV
+#EXTINF:-1 tvg-id="KroneHit.tv" tvg-name="KroneHit TV" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/kronehit.png" group-title="Music TV",KroneHit TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="KissTV" tvg-name="Kiss TV" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/kisstv.png" group-title="Music TV,Kiss TV
-https://t.freetv.fun/live/kiss-tv.m3u8
-#EXTINF:-1 tvg-id="Rock.tv" tvg-name="Rock TV" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/rocktv.png" group-title="Music TV,Rock TV
+#EXTINF:-1 tvg-id="Rock.tv" tvg-name="Rock TV" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/rocktv.png" group-title="Music TV",Rock TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
-#EXTINF:-1 tvg-id="Vevo.Pop" tvg-name="Vevo Pop" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/vevopop.png" group-title="Music TV,Vevo Pop
+#EXTINF:-1 tvg-id="Thats90s00s" tvg-name="That's 90s/00s" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/thats90s.png" group-title="Music TV",That's 90s/00s
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
+#EXTINF:-1 tvg-id="Vevo.Pop" tvg-name="Vevo Pop" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/vevopop.png" group-title="Music TV",Vevo Pop
+https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="Vevo.PopUK" tvg-name="Vevo Pop UK" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/vevopopuk.png" group-title="Music TV",Vevo Pop UK
 https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Vevo.RetroRock" tvg-name="Vevo Retro Rock" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/vevorock.png" group-title="Music TV,Vevo Retro Rock
+#EXTINF:-1 tvg-id="Vevo.Rock" tvg-name="Vevo Rock" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/vevorock.png" group-title="Music TV",Vevo Rock
 https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8
-#EXTINF:-1 tvg-id="Vevo.2010s" tvg-name="Vevo 2010s" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/vevo2010s.png" group-title="Music TV,Vevo 2010s
+#EXTINF:-1 tvg-id="Vevo.RetroRock" tvg-name="Vevo Retro Rock" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/vevoretrorock.png" group-title="Music TV",Vevo Retro Rock
+https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="Vevo.90s" tvg-name="Vevo '90s" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/vevo90s.png" group-title="Music TV",Vevo '90s
+https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="Vevo.2010s" tvg-name="Vevo 2010s" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/vevo2010s.png" group-title="Music TV",Vevo 2010s
 https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Vevo.Latino" tvg-name="Vevo Latino" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/vevolatino.png" group-title="Music TV",Vevo Latino
+https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Vevo.Country" tvg-name="Vevo Country" tvg-logo="https://raw.githubusercontent.com/iptvspace/live/refs/heads/main/vevocountry.png" group-title="Music TV",Vevo Country
+https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
